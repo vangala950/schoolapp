@@ -14,5 +14,4 @@
  access igt on local host
 
 
-# django banana
 # django mango
