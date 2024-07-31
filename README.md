@@ -13,5 +13,5 @@
 
  access igt on local host
 
-
-# django mango
+School Course Management
+# django banana
