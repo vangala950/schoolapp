@@ -15,4 +15,3 @@
 
 School Course Management
 # django banana
-# django mango
