@@ -13,6 +13,6 @@
 
  access igt on local host
 
-
+School Course Management
 # django banana
 # django mango
