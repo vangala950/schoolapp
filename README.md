@@ -12,3 +12,6 @@
 8. Finally Run The Project `python manage.py runserver`
 
  access igt on local host
+
+
+# django mana
